@@ -17,7 +17,9 @@ Requirements:
     Corresponding fee structure
     Venue (i.e. CS Department, RnD, Auditorium...)
     Contacts (should include some volunteer from the college)
+    Corresponding Image that should be set as background
 - Create all Social Networking pages for :
     Facebook
     Twitter
     Google+
+- [Web] Replace Alecrona from everywhere in the repo and substitute with spandan.
