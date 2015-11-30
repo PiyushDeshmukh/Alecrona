@@ -25,3 +25,5 @@ Requirements:
 - [Web] Replace Alecrona from everywhere in the repo and substitute with spandan.
 - [Web] Individual events page doesn't have functional href of logo and Register option.
 - [Web] Improve downloads section on main page
+- [Web] Add Carousel if possible
+- [Web] Design Brochure
