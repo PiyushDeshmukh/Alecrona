@@ -164,3 +164,37 @@
 }
 
 /*Events section hover effects end*/
+
+
+
+/*Event heading animations start*/
+
+
+/*----------------------------
+	Container & textbox
+-----------------------------*/
+
+
+#container{
+	font-size: 58px;
+	margin: 0 auto;
+	padding: 200px 0 100px;
+	width: 650px;
+	position:relative;
+	min-height: 90px;
+
+	font-family:'Open Sans Condensed',sans-serif;
+	text-shadow:1px 1px 0 rgba(255,255,255,0.5);
+}
+
+#container:before{
+	font-size: 50px;
+	left: -40px;
+	opacity: 0.25;
+	position: absolute;
+	text-shadow: 1px 1px 0 white;
+	top: 210px;
+}
+
+
+/*Event heading animations end*/
